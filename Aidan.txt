@@ -1,1 +1,1 @@
-console.WriteLine("Aidan Sucks");
+echo no
