@@ -1,0 +1,2 @@
+FPS
+Instead of shooting you cast and if the cast hits a "resource gathering spot" you will collect resources (If i get far enough, these resources will be used for other skills, or for something else). For each skill you will need a different "weapon". Simple skill system with 3+ skills, fishing will have multiple types of fish. Woodcutting will have multiple types trees etc. Inventory system with banking capabilities. Forested area with rocks, trees and ponds in order to use these skills. 
